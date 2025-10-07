@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anuma Maryjane | Cybersecurity Analyst</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Anuma Maryjane</h1>
+      <p class="title">Cybersecurity Analyst | Cloud Enthusiast</p>
+      <div class="contact">
+        <p>📧 anumamaryjane@gmai.com</p>
+        <p>📞 07051679732</p>
+        <p><a href="https://github.com/Maryjane-Anuma" target="_blank">GitHub</a> | 
+           <a href="http://linkedin.com/in/maryjane-anum-cybersecurityanalyt" target="_blank">LinkedIn</a></p>
+      </div>
+    </header>
+
+    <section>
+      <h2>🎯 Profile</h2>
+      <p>Motivated cybersecurity enthusiast with hands-on experience in cloud computing, SIEM setup, and threat detection. Passionate about using AWS technologies to build secure, scalable systems while continuously improving skills in network and information security.</p>
+    </section>
+
+    <section>
+      <h2>🧠 Skills</h2>
+      <ul class="skills">
+        <li>Cybersecurity Analysis</li>
+        <li>Cloud Computing (AWS)</li>
+        <li>SIEM Tools (Wazuh, Splunk)</li>
+        <li>Linux & Networking</li>
+        <li>Incident Detection & Response</li>
+        <li>Docker & ECS</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>💼 Experience</h2>
+      <div class="job">
+        <h3>Cybersecurity Intern — HiiT PLC</h3>
+        <p><em>April 2025 – Present</em></p>
+        <ul>
+          <li>Configured and deployed Wazuh SIEM in Docker for log monitoring.</li>
+          <li>Performed system hardening and SSH security configuration.</li>
+          <li>Documented daily SIWES reports on cybersecurity and cloud projects.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>🎓 Education</h2>
+      <p><strong>B.Sc. in Computer Science</strong><br>Delta State University, Nigeria</p>
+    </section>
+
+    <footer>
+      <p>© 2025 Anuma Maryjane | Powered by AWS S3 + CloudFront 🚀</p>
+    </footer>
+  </div>
+</body>
+</html>
